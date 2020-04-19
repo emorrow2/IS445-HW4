@@ -1,1 +1,9 @@
-.p font: 12;
+h1{
+    text-align: center;
+}
+
+#balloon-holder{
+    text-align: center;
+    font-size: 30px;
+}
+
